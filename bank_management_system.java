@@ -1,4 +1,8 @@
 import java.util.*;
+
+
+//class create_account created 
+
 class create_account
 {
     String name,acc_type;
@@ -19,6 +23,9 @@ class create_account
         money =0;
     }
 }
+
+//class bank created which is parent class
+
 class bank
 {
     String name,acc_type;
